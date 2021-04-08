@@ -31,5 +31,5 @@ brazil_loss %>%
   theme_minimal(14) +
   theme(legend.title = element_blank()) +
   labs(y = NULL, x = NULL, title = "Loss of Brazilian forest due to specific types")
-ggsave(file = "Week15 Deforestration/brazil_loss.png", width = 8,  height = 5)  
+ggsave(file = "Week15 Deforestation/brazil_loss.png", width = 8,  height = 5)  
 
