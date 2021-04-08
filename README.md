@@ -6,4 +6,4 @@
 
 <img src="https://github.com/Kim-s-h/tidytuesday/blob/master/Week3%20Art%20Collections/world_map_birthPlace.png" width=800>
 
-<img src="https://github.com/Kim-s-h/tidytuesday/blob/master/Week15%20Deforestration/brazil_loss.png" width=800>
+<img src="https://github.com/Kim-s-h/tidytuesday/blob/master/Week15%20Deforestation/brazil_loss.png" width=800>
